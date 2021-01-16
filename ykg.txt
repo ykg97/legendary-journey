@@ -4,11 +4,8 @@ My favorite code quote, "<span id="k">Kappa 123</span>". <!-- sjkfhskjf -->
 
 Hey There! This is my portflio website in the skin of a terminal.<p>Test 123.</p>
 <p>My name is ykg.</p>
-
 <p>First Class graduate in BSc. Computer Science (AI) <br><br><br>My github: <a href="github.com/ykg97/"> Here you go</a>.</p>
-
 <p> Links to my online profiles: <br> <a href="https://www.linkedin.com/in/yong-kai-ging-025473146/">LinkedIn</a> <br> <a href="https://osu.ppy.sh/users/4146587">Osu Profile kappa</a>.</p>
-
 To contact me<!-- slightdelayhere-->, feel free to send me an email at<a href="yongkaiging@hotmail.com">yongkaiging@hotmail.com</a>.
 
 <p>Cheers!</p>
